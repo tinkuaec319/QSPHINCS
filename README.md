@@ -601,27 +601,19 @@ If you use this implementation in your research, please cite:
 
 ```bibtex
 
-@software{pqi_pki_2026,
-  author = {PQI-PKI Development Team},
+@software{qsphincs_2026,
+  author = {QSphincs Development Team},
   title = {Post-Quantum Certification Authority System},
   url = {https://github.com/tinkuaec319/QSPHINCS.git},
   year = {2026}
 }
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
 ---
 
 ## 🙏 Acknowledgments
 
-- **SPHINCS+ Implementation**: Based on sphincs-python reference implementation
+- **SPHINCS+ Implementation**: [Based on sphincs-python reference implementation](https://github.com/tottifi/sphincs-python)
 - **Strawberry Fields**: Xanadu's quantum computing framework
-- **Academic Foundation**: QCNC 2025 paper by Tsili et al.
 
 ---
 
